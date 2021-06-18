@@ -1,0 +1,13 @@
+/.metadata/
+*.env
+*.exe
+*.idea
+venv/
+.pytest_cache/
+*/tests/__pycache__/
+report.html
+.DS_Store
+Extension.Chrome/
+.vscode
+geckodriver/
+geckodriver.*
